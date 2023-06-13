@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gn6a7UG08dhr2ayCMKbUJxfROIVc1iHwrMOGBFppb+6pnLDQtA489eftBUG9fudgyBypn9BrOS2QBPfievjl3Q==",
+  "dgSpecHash": "zd+otBxXZkIUjDUKUIXh6h4mDLxkVAGZb2Juxr1iA9QUbPBGx/7n3NCjBP/dj+mAL3A7Ko0kE1FbdQ9ANnomog==",
   "success": true,
   "projectFilePath": "D:\\microservices\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
@@ -67,7 +67,6 @@
     "C:\\Users\\Mateusz\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\Mateusz\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\Mateusz\\.nuget\\packages\\system.runtime.caching\\5.0.0\\system.runtime.caching.5.0.0.nupkg.sha512",
-    "C:\\Users\\Mateusz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Mateusz\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\Mateusz\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
     "C:\\Users\\Mateusz\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
